@@ -9747,6 +9747,10 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
+.text-black {
+  color: black !important;
+}
+
 .text-primary {
   color: #85C1E9 !important;
 }
@@ -10077,14 +10081,14 @@ header.masthead h1 {
   }
 }
 
-#portfolio .container-fluid, #portfolio .container-sm, #portfolio .container-md, #portfolio .container-lg, #portfolio .container-xl {
+#science-of-sleep .container-fluid, #science-of-sleep .container-sm, #science-of-sleep .container-md, #science-of-sleep .container-lg, #science-of-sleep .container-xl {
   max-width: 1920px;
 }
-#portfolio .container-fluid .portfolio-box, #portfolio .container-sm .portfolio-box, #portfolio .container-md .portfolio-box, #portfolio .container-lg .portfolio-box, #portfolio .container-xl .portfolio-box {
+#science-of-sleep .container-fluid .portfolio-box, #science-of-sleep .container-sm .portfolio-box, #science-of-sleep .container-md .portfolio-box, #science-of-sleep .container-lg .portfolio-box, #science-of-sleep .container-xl .portfolio-box {
   position: relative;
   display: block;
 }
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption, #portfolio .container-sm .portfolio-box .portfolio-box-caption, #portfolio .container-md .portfolio-box .portfolio-box-caption, #portfolio .container-lg .portfolio-box .portfolio-box-caption, #portfolio .container-xl .portfolio-box .portfolio-box-caption {
+#science-of-sleep .container-fluid .portfolio-box .portfolio-box-caption, #science-of-sleep .container-sm .portfolio-box .portfolio-box-caption, #science-of-sleep .container-md .portfolio-box .portfolio-box-caption, #science-of-sleep .container-lg .portfolio-box .portfolio-box-caption, #science-of-sleep .container-xl .portfolio-box .portfolio-box-caption {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10096,20 +10100,20 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(133, 193, 233, 0.3);
   transition: opacity 0.25s ease;
   text-align: center;
 }
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category {
+#science-of-sleep .container-fluid .portfolio-box .portfolio-box-caption .project-category, #science-of-sleep .container-sm .portfolio-box .portfolio-box-caption .project-category, #science-of-sleep .container-md .portfolio-box .portfolio-box-caption .project-category, #science-of-sleep .container-lg .portfolio-box .portfolio-box-caption .project-category, #science-of-sleep .container-xl .portfolio-box .portfolio-box-caption .project-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
 }
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name {
+#science-of-sleep .container-fluid .portfolio-box .portfolio-box-caption .project-name, #science-of-sleep .container-sm .portfolio-box .portfolio-box-caption .project-name, #science-of-sleep .container-md .portfolio-box .portfolio-box-caption .project-name, #science-of-sleep .container-lg .portfolio-box .portfolio-box-caption .project-name, #science-of-sleep .container-xl .portfolio-box .portfolio-box-caption .project-name {
   font-size: 1.2rem;
 }
-#portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption {
+#science-of-sleep .container-fluid .portfolio-box:hover .portfolio-box-caption, #science-of-sleep .container-sm .portfolio-box:hover .portfolio-box-caption, #science-of-sleep .container-md .portfolio-box:hover .portfolio-box-caption, #science-of-sleep .container-lg .portfolio-box:hover .portfolio-box-caption, #science-of-sleep .container-xl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
 
